@@ -5,6 +5,8 @@ The columns in the CSV file are name, week, availability (for all shifts), and n
 
 User inputs week and CSV file. Then, a downable photo is displayed.
 
+Example Google Form that would create a useable CSV file: [https://forms.gle/iKpVQvPCc6yi3jMS9](url)
+
 Likely future features:
 - handle availability at two locations (no overlapping shifts)
 - user can set up: input their own column names
