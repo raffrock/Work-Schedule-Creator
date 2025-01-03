@@ -1,9 +1,9 @@
 # Work-Schedule-Creator
-This takes in a CSV file and returns a visualization of a possible schedule. It will also show gaps in availability. 
+This takes in a CSV file of employee availability and returns a CSV of a possible schedule. It will warn about gaps in availability for certain shifts. 
 
-The columns in the CSV file are name, week, availability (for all shifts), and number of shifts wanted. 
+The columns in the input CSV file are name, week, availability (for all shifts), and number of shifts wanted. 
 
-User inputs week and CSV file. Then, a downable photo is displayed.
+User inputs chosen week and CSV file. Then, a downable photo is displayed.
 
 Example Google Form that would create a useable CSV file: [https://forms.gle/iKpVQvPCc6yi3jMS9](url)
 
