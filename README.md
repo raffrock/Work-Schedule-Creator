@@ -7,6 +7,7 @@ User inputs week and CSV file. Then, a downable photo is displayed.
 
 Likely future features:
 - handle availability at two locations (no overlapping shifts)
+- user can set up: input their own column names
 
 Possible future features:
 - displays several schedule options
